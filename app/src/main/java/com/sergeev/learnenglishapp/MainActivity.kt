@@ -8,6 +8,11 @@ import com.sergeev.learnenglishapp.databinding.ActivityLearnWordBinding
 
 class MainActivity : AppCompatActivity() {
 
+
+
+
+
+
     private var binding: ActivityLearnWordBinding? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
